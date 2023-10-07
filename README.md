@@ -1,16 +1,15 @@
-### Hi there 👋
+# <img src="./images/octocat-1696703927165.png" width=15% align=right /> Bienvenido a mi perfil, yo soy Jaime 🤟
 
-<!--
-**jaimeleon10/jaimeleon10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Técnico de redes en una empresa 🧑‍💻 y estudiante de Desarrollo de Aplicaciones Web en el Instituto IES Luis Vives 📓
 
-Here are some ideas to get you started:
+### Aficiones y hobbies 🔝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En mi tiempo libre me gusta salir con mis amigos y mi pareja 👫, jugar al padel 🎾, jugar a videojuegos 🎮, programar 💻, ver películas y series 🎥 y sobre todo vivir muchas aventuras 🤠.
+
+### Un poco sobre mi 🙋‍♂️
+
+Soy trabajador y proactivo, siempre trato de aprender cosas nuevas y mejorar. Además, trabajo bien tanto en equipo como por mi cuenta. Si buscas a un futuro desarrollador, me has encontrado 😉
+#
+<p align="center">
+<img src="./images/banner.png" align=center/>
+</p>
