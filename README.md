@@ -9,6 +9,7 @@ En mi tiempo libre me gusta salir con mis amigos y mi pareja 👫, jugar al pade
 #
 ### Un poco sobre mi 🙋‍♂️
 Soy trabajador y proactivo, siempre trato de aprender cosas nuevas y mejorar. Además, trabajo bien tanto en equipo como por mi cuenta. Si buscas a un futuro desarrollador, me has encontrado 😉
+
 ---
 <p align="center">
 <img src="./images/banner.png" align=center/>
