@@ -7,7 +7,7 @@ Soy Técnico de redes en la empresa Chequemotiva 🧑‍💻 y estudiante de Des
 En mi tiempo libre me gusta salir con mis amigos y mi pareja 👫, jugar al padel 🎾, programar 💻, ver películas y series 🎥 y jugar a videojuegos 🎮
 #
 ### Un poco sobre mi 🙋‍♂️
-Soy trabajador y proactivo, siempre trato de aprender cosas nuevas y mejorar. Además, trabajo bien tanto en equipo como por mi cuenta 💪🏼
+Soy trabajador y proactivo, siempre trato de aprender cosas nuevas y mejorar 💪🏼
 
 ---
 <p align="center">
