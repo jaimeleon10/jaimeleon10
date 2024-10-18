@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil, yo soy Jaime 🤟
 
-<img src="./images/octocat-1696703927165.png" width="25%" align="right" />
+<img src="./images/octocat.png" width="25%" align="right" />
 
 Soy Técnico de redes en la empresa Chequemotiva 🧑‍💻 y estudiante de Desarrollo de Aplicaciones Web en el Instituto IES Luis Vives 📓
 
