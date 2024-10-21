@@ -16,6 +16,29 @@ Soy trabajador y proactivo, siempre trato de aprender cosas nuevas y mejorar �
 
 ---
 
+### Tecnologías 💻
+
+<p align=center>
+  <img src="./imgs/github.png" width=5% align=center />
+  <img src="./imgs/gitkraken.png" width=5% align=center />
+  <img src="./imgs/kotlin.png" width=5% align=center />
+  <img src="./imgs/html.png" width=5% align=center />
+  <img src="./imgs/css.png" width=5% align=center />
+  <img src="./imgs/mysql.png" width=5% align=center />
+  <img src="./imgs/sqlite.png" width=5% align=center />
+  <img src="./imgs/java.png" width=5% align=center />
+  <br>
+  <img src="./imgs/dockerLogo.png" width=5% align=center />
+  <img src="./imgs/postman.svg" width=6% align=center />
+  <img src="./imgs/springboot.png" width=5% align=center />
+  <img src="./imgs/postgres.png" width=5% align=center />
+  <img src="./imgs/mariadb.svg" width=5% align=center />
+  <img src="./imgs/bootstrap.png" width=5% align=center />
+  <img src="./imgs/javascript.png" width=5% align=center />
+</p>
+
+---
+
 <p align="center">
 <img src="./images/banner.png" align="center"/>
 </p>
