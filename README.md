@@ -39,6 +39,15 @@ Soy trabajador y proactivo, siempre trato de aprender cosas nuevas y mejorar ğŸ’
 
 ---
 
+### Contacto ğŸ“©
+
+<p align=center>
+  <img src="./images/github.png" width=5% align=center />
+  <img src="./images/gitkraken.png" width=5% align=center />
+</p>
+
+---
+
 <p align="center">
 <img src="./images/banner.png" align="center"/>
 </p>
