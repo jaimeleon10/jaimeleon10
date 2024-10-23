@@ -2,8 +2,6 @@
 <img src="./images/banner.png" align="center"/>
 </p>
 
----
-
 # Bienvenido a mi perfil, yo soy Jaime 🤟
 
 <img src="./images/octocat.png" width="25%" align="right" />
