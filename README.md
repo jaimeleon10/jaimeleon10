@@ -1,3 +1,9 @@
+<p align="center">
+<img src="./images/banner.png" align="center"/>
+</p>
+
+---
+
 # Bienvenido a mi perfil, yo soy Jaime ðŸ¤Ÿ
 
 <img src="./images/octocat.png" width="25%" align="right" />
@@ -45,10 +51,4 @@ Soy trabajador y proactivo, siempre trato de aprender cosas nuevas y mejorar ðŸ’
   <img src="./images/email.png" width=5% align=center />
   <img src="./images/linkedin.png" width=5% align=center />
   <img src="./images/instagram.png" width=5% align=center />
-</p>
-
----
-
-<p align="center">
-<img src="./images/banner.png" align="center"/>
 </p>
