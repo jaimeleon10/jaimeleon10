@@ -6,7 +6,7 @@
 
 <img src="./images/octocat.png" width="25%" align="right" />
 
-Soy Técnico de redes en la empresa Chequemotiva 🧑‍💻 y estudiante de Desarrollo de Aplicaciones Web en el Instituto IES Luis Vives 📓
+Soy Desarrollador en la empresa Chequemotiva 🧑‍💻 y estudiante de Desarrollo de Aplicaciones Web en el Instituto IES Luis Vives 📓
 
 ---
 
