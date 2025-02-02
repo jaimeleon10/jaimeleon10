@@ -46,6 +46,10 @@ Soy una persona trabajadora, ordenada y persistente, con un carácter abierto y 
 ### Contacto 📩
 
 <p align=center>
+  <img src="./images/email.png" width=5% align=center />
+  <img src="./images/linkedin.png" width=5% align=center />
+  <img src="./images/instagram.png" width=5% align=center />
+  
   [![Email](./images/email.png)](mailto:jleonmulero@gmail.com)
   [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/tu-perfil)
   [![Instagram](./images/instagram.png)](https://www.instagram.com/tu-perfil)
