@@ -49,10 +49,10 @@ Soy una persona trabajadora, ordenada y persistente, con un carácter abierto y 
   <a href="mailto:jleonmulero@gmail.com">
     <img src="./images/email.png" width="5%" align="center" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/jaimeleonmulero">
     <img src="./images/linkedin.png" width="5%" align="center" />
   </a>
-  <a href="https://www.instagram.com/tu-perfil">
+  <a href="https://www.instagram.com/jaimeleon10">
     <img src="./images/instagram.png" width="5%" align="center" />
   </a>
 </p>
