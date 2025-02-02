@@ -46,13 +46,13 @@ Soy una persona trabajadora, ordenada y persistente, con un carácter abierto y 
 ### Contacto 📩
 
 <p align=center>
-  <a href="mailto:jleonmulero@gmail.com" style="text-decoration: none;">
-    <img src="./images/email.png" width="5%" align="center" style="text-decoration: none;"/>
+  <a href="mailto:jleonmulero@gmail.com" style="text-decoration: none; border: none;">
+    <img src="./images/email.png" width="5%" align="center"/>
   </a>
-  <a href="https://www.linkedin.com/in/jaimeleonmulero" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/jaimeleonmulero" style="text-decoration: none; border: none;">
     <img src="./images/linkedin.png" width="5%" align="center" style="text-decoration: none;"/>
   </a>
-  <a href="https://www.instagram.com/jaimeleon10" style="text-decoration: none;">
-    <img src="./images/instagram.png" width="5%" align="center" style="text-decoration: none;"/>
+  <a href="https://www.instagram.com/jaimeleon10" style="text-decoration: none; border: none;">
+    <img src="./images/instagram.png" width="5%" align="center"/>
   </a>
 </p>
