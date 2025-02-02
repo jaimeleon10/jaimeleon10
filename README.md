@@ -16,7 +16,7 @@ En mi tiempo libre me gusta salir con mis amigos y mi pareja 👫, jugar al pade
 ---
 
 ### Un poco sobre mí 🙋‍♂️
-Soy trabajador y proactivo, siempre trato de aprender cosas nuevas y mejorar 💪🏼
+Soy una persona trabajadora, ordenada y persistente, con un carácter abierto y social que me permite integrarme fácilmente en equipos de trabajo. Mi proactividad e iniciativa se complementan con una gran disposición al aprendizaje continuo, especialmente en los campos de la informática y los dispositivos tecnológicos.  💪🏼
 
 ---
 
